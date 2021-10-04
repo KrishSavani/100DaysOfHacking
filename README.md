@@ -6,7 +6,8 @@
 
 # Objective
 
-<img width="590" alt="Screenshot 2021-09-29 at 2 36 12 AM" src="https://user-images.githubusercontent.com/56188454/135165713-184ed135-7024-4353-a436-e4cfeea751c3.png">
+<img width="590" alt="Tweet" src="https://user-images.githubusercontent.com/74283604/135795369-646ea920-ec9a-48cb-ab3c-94e68fdf7359.png">
+
 
 # Commitment Timeline 
 
